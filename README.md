@@ -26,8 +26,8 @@ brew install zsh tmux vim ctags
 
 ### Step 2: Change your shell to zsh
 
-For most UNIX-based operating systems, this can be done with the following
-command:
+The shell configured for the account must be set to `zsh`. For most UNIX-based
+operating systems, this can be done with the following command:
 
 ```bash
 chsh -s /bin/zsh
